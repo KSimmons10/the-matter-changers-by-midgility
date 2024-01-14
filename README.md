@@ -1,4 +1,12 @@
- 
+The goal of this project is to create content that make education a bit more fun and allows for integration of game design and coding to the classroom.
+
+The game has three levels:
+Solid to liquid - There are multiple items [namely ice cubes and a wooden log]. Place the flame source below the item that can melt to become a liquid [in this case, ice cubes]. Press A to light the flame until it melts completely. Monitor the temperature continuously.
+Liquid to Gas - Place the flame source below the water the container and light it until it boils and converts all the water to water vapour. Watch the temperature continuously.
+Liquid to Solid - A glass with some drink is given. Convert it into the solid form by placing it in an appropriate place [in this case, the upper compartment - freezer].
+
+On successful completion of all the levels, the player wins the game.
+
 
 
 > Open this page at [https://ksimmons10.github.io/the-matter-changers-by-midgility/](https://ksimmons10.github.io/the-matter-changers-by-midgility/)
